@@ -1,0 +1,57 @@
+De: "Jenny Hamlin" <em@editorialmanager.com>
+Asunto: Action required on your PLOS Biology manuscript - [EMID:be35df5c3bfcaca2]
+Fecha: agosto 5, 2016, 7:24:49 PM GMT+2
+Para: "Pedro Jordano" <jordano@ebd.csic.es>
+Responder a: "Jenny Hamlin" <jhamlin@plos.org>
+
+Ref: PBIOLOGY-D-16-01135
+
+Dear Dr.  Jordano, 
+
+Thank you for submitting your manuscript to PLOS Biology. Now that the Editor, Dr. Roland G Roberts , has informed you of the decision, the following production issues need to be addressed before the manuscript can be formally accepted for publication in PLOS Biology.
+
+Please address all editorial requirements, as well as those listed below, at your earliest convenience.
+
+Requirements:
+
+- Please upload your main article file as a doc, docx.
+
+- Please ensure that all main figures are in .tif or .eps format. For more information about how to convert your figure files please see our guidelines: http://journals.plos.org/plosbiology/s/figures. Once you've converted your files to .tif or .eps, please also make sure that your figures meet our format requirements: http://journals.plos.org/plosbiology/s/figures#loc-file-requirements
+
+- Please provide a blurb, which will be included in our weekly and monthly Electronic Table of Contents, sent out to users signed up to receive alerts from PLOS Biology. The blurb should be about 20-30 words long and is subject to editorial changes. It should, without exaggeration, entice people to read your manuscript. It should not be redundant with the title and should not contain acronyms or abbreviations. For examples, please view our Author Guidelines: http://journals.plos.org/plosbiology/s/revising-your-manuscript. Please submit your blurb as a sentence or two uploaded as a separate file, with a type of 'Other'.
+
+- Please remove the funding information from the acknowledgements section of your manuscript file. The published version is pulled automatically from the “Financial Disclosure” field in our submission form and must not be duplicated. Please therefore take this opportunity to check that the information in this field is correct and written in full sentences with the exact wording you wish to be published.
+
+- Please note that we do not publish Author Summaries with magazine articles (only Research articles) so we ask that you please remove this section from your manuscript file.
+
+- Please make sure all references are cited in ascending numerical order in the text. 
+
+- Please note that all figures and supporting information files will be published under the Creative Commons Attribution License (creativecommons.org/licenses/by/4.0/). Under this license, authors retain ownership of the copyright for their article, but allow anyone to download, reuse, reprint, modify, distribute, and/or copy articles in PLOS journals for any reason, even commercially, so long as the original authors and source are cited. Permission is not required from PLOS or authors to reuse any content as long as proper attribution is provided.
+
+We note that you have provided credit for all panels in Figure 1 but we will need written permission from the copyright holder of each image giving permission to publish them under a CC-BY license. Please note that any written confirmation you send to us must clarify that the copyright holder understands and agrees to the terms of this license and let us know who should be given credit for the image. Note that an email confirmation is acceptable for each.
+
+- Please verify that any in-text reference to a heading match the heading name verbatim. This will ensure that all such references will link to the correct section when published online. For example, if you have a 'Materials and Methods' section, please only refer to it as 'Materials and Methods' in the text, rather than just 'Materials' or 'Methods'. 
+
+If Supporting Information files are included with your article, please note that these are not copyedited and will be published as they are submitted. Please ensure that these files are legible and of high quality (at least 300 dpi) in an easily accessible file format. For this reason, please also note that any references listed in an SI file will not be indexed. For more information, see our Supporting Information guidelines: http://journals.plos.org/plosbiology/s/supporting-information.
+
+- If you wish to provide an image to be considered for our homepage and/or monthly 'Featured' image, please upload a striking single-panel image as a "striking image" file type. Please also provide a short description of what the image shows in a separate file, along with an image credit detailing who should be credited with the creation of the image. Please confirm that it has not been previously copyrighted, and can therefore be published under our Creative Commons Attribution License (http://journals.plos.org/plosbiology/s/content-license). 
+
+
+*****
+
+Please submit your revised files by logging on to Editorial Manager (http://pbiology.edmgr.com/) as an author.
+
+Please feel free to contact me immediately if you have any queries. 
+
+Kind regards,
+
+Jenny Hamlin
+Publications Manager
+PLOS Biology
+
+---------------------------
+
+For a full outline of our author guidelines please follow this link: http://journals.plos.org/plosbiology/s/submission-guidelines 
+
+For a full outline of our author guidelines for figure and table preparation, please follow these links:
+http://journals.plos.org/plosbiology/s/figures; http://journals.plos.org/plosbiology/s/tables
